@@ -11,4 +11,4 @@ This script relies on HiveR package:
 
 AKT1 can act as a kinase or as a substrate. Edges connect from Kinase axis to distinct peptides that the protein phosphorylates; which belong to substrate proteins (edge from Peptide to Substrate). In the absence of known target peptides, edges connect directly from kinase to substrate - yellow edges
 
-![alt tag](https://github.com/aolow/ProteinHivePlots/blob/master/AKT1_hive.jpg =250x)
+![alt tag](https://github.com/aolow/ProteinHivePlots/blob/master/AKT1_hive.jpg)
